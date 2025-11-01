@@ -50,6 +50,3 @@ App runs at: **[http://localhost:8000](http://localhost:8000)**
 ---
 
 **Made with ❤️ using Node.js, PostgreSQL, and Docker**
-
-```
-```
